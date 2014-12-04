@@ -1,0 +1,3 @@
+$ cd Newpaper_Briquette_Maker
+$ git add *
+$ git status
